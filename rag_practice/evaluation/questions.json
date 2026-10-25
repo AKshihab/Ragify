@@ -1,0 +1,157 @@
+[
+    {
+        "sources":  [
+                        "txt/academy_overview.txt"
+                    ],
+        "expected_answer":  "Nila Rahman founded it in 2022.",
+        "answerable":  true,
+        "id":  "q01",
+        "question":  "Who founded the academy, and in which year?"
+    },
+    {
+        "sources":  [
+                        "txt/academy_overview.txt"
+                    ],
+        "expected_answer":  "Sunday through Thursday, 9:00 AM to 5:00 PM, Dhaka local time.",
+        "answerable":  true,
+        "id":  "q02",
+        "question":  "When is the administration office open?"
+    },
+    {
+        "sources":  [
+                        "txt/academy_overview.txt"
+                    ],
+        "expected_answer":  "12 workstations.",
+        "answerable":  true,
+        "id":  "q03",
+        "question":  "How many computer lab workstations are available?"
+    },
+    {
+        "sources":  [
+                        "pdf/course_guide.pdf"
+                    ],
+        "expected_answer":  "15 November 2026.",
+        "answerable":  true,
+        "id":  "q04",
+        "question":  "When does enrollment close?"
+    },
+    {
+        "sources":  [
+                        "pdf/course_guide.pdf"
+                    ],
+        "expected_answer":  "Friday, 7:00 PM to 9:00 PM, Dhaka local time; online only.",
+        "answerable":  true,
+        "id":  "q05",
+        "question":  "When and where are Applied RAG classes held?"
+    },
+    {
+        "sources":  [
+                        "word/student_handbook.docx"
+                    ],
+        "expected_answer":  "At least 80% attendance and a submitted final project scoring at least 60 out of 100.",
+        "answerable":  true,
+        "id":  "q06",
+        "question":  "What attendance and project score are required for a certificate?"
+    },
+    {
+        "sources":  [
+                        "word/student_handbook.docx"
+                    ],
+        "expected_answer":  "A 50% refund.",
+        "answerable":  true,
+        "id":  "q07",
+        "question":  "What refund applies if I cancel 3 days before the first class?"
+    },
+    {
+        "sources":  [
+                        "word/student_handbook.docx"
+                    ],
+        "expected_answer":  "Within 7 working days.",
+        "answerable":  true,
+        "id":  "q08",
+        "question":  "How long does an approved refund take to process?"
+    },
+    {
+        "sources":  [
+                        "json/course_catalog.json"
+                    ],
+        "expected_answer":  "Tanvir Alam; 10 weeks.",
+        "answerable":  true,
+        "id":  "q09",
+        "question":  "Who teaches Machine Learning and how long is the course?"
+    },
+    {
+        "sources":  [
+                        "json/course_catalog.json"
+                    ],
+        "expected_answer":  "Python knowledge and basic API usage.",
+        "answerable":  true,
+        "id":  "q10",
+        "question":  "What are the Applied RAG prerequisites?"
+    },
+    {
+        "sources":  [
+                        "json/course_catalog.json",
+                        "pdf/course_guide.pdf"
+                    ],
+        "expected_answer":  "BDT 2400: 30% of the BDT 8000 course fee.",
+        "answerable":  true,
+        "id":  "q11",
+        "question":  "How much deposit is needed to reserve an Applied RAG seat?"
+    },
+    {
+        "sources":  [
+                        "images/library_notice.png"
+                    ],
+        "expected_answer":  "Sunday to Thursday, 10:00 AM to 6:00 PM, Dhaka local time; closed Friday and Saturday.",
+        "answerable":  true,
+        "id":  "q12",
+        "question":  "What are the library opening hours?"
+    },
+    {
+        "sources":  [
+                        "images/library_notice.png"
+                    ],
+        "expected_answer":  "Up to 3 books for 14 calendar days.",
+        "answerable":  true,
+        "id":  "q13",
+        "question":  "How many books can I borrow and for how long?"
+    },
+    {
+        "sources":  [
+                        "images/library_notice.png"
+                    ],
+        "expected_answer":  "BDT 60: 2 books times 3 calendar days times BDT 10.",
+        "answerable":  true,
+        "id":  "q14",
+        "question":  "What is the late fee for two books that are three days overdue?"
+    },
+    {
+        "sources":  [
+                        "json/course_catalog.json",
+                        "pdf/course_guide.pdf"
+                    ],
+        "expected_answer":  "Python Foundations at BDT 6000; its 30% deposit is BDT 1800.",
+        "answerable":  true,
+        "id":  "q15",
+        "question":  "Which course is the least expensive and how much is its reservation deposit?"
+    },
+    {
+        "sources":  [
+
+                    ],
+        "expected_answer":  "I don\u0027t know based on these documents.",
+        "answerable":  false,
+        "id":  "q16",
+        "question":  "What is the Wi-Fi password?"
+    },
+    {
+        "sources":  [
+
+                    ],
+        "expected_answer":  "I don\u0027t know based on these documents.",
+        "answerable":  false,
+        "id":  "q17",
+        "question":  "What is the academy director\u0027s phone number?"
+    }
+]

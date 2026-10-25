@@ -1,0 +1,59 @@
+{
+    "academy":  "Riverlight Learning Academy",
+    "document_id":  "RLA-CATALOG-01",
+    "edition":  "2026-10",
+    "fictional":  true,
+    "currency":  "BDT",
+    "courses":  [
+                    {
+                        "id":  "PY-101",
+                        "title":  "Python Foundations",
+                        "duration_weeks":  6,
+                        "fee_bdt":  6000,
+                        "instructor":  "Arif Hasan",
+                        "prerequisites":  [
+                                              "Basic computer skills"
+                                          ],
+                        "delivery":  "On campus",
+                        "project":  "Command-line expense tracker"
+                    },
+                    {
+                        "id":  "DA-201",
+                        "title":  "Data Analysis",
+                        "duration_weeks":  8,
+                        "fee_bdt":  9500,
+                        "instructor":  "Maya Sen",
+                        "prerequisites":  [
+                                              "Python Foundations or equivalent Python knowledge"
+                                          ],
+                        "delivery":  "Hybrid",
+                        "project":  "Sales analysis dashboard"
+                    },
+                    {
+                        "id":  "ML-301",
+                        "title":  "Machine Learning",
+                        "duration_weeks":  10,
+                        "fee_bdt":  14000,
+                        "instructor":  "Tanvir Alam",
+                        "prerequisites":  [
+                                              "Python knowledge",
+                                              "Basic statistics"
+                                          ],
+                        "delivery":  "Hybrid",
+                        "project":  "House price prediction model"
+                    },
+                    {
+                        "id":  "RAG-401",
+                        "title":  "Applied RAG",
+                        "duration_weeks":  4,
+                        "fee_bdt":  8000,
+                        "instructor":  "Sara Karim",
+                        "prerequisites":  [
+                                              "Python knowledge",
+                                              "Basic API usage"
+                                          ],
+                        "delivery":  "Online",
+                        "project":  "Document question-answering assistant"
+                    }
+                ]
+}

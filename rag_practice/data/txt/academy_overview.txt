@@ -1,0 +1,39 @@
+RIVERLIGHT LEARNING ACADEMY
+Academy overview | Document ID: RLA-OVERVIEW-01
+Fictional sample data for RAG practice. Edition: October 2026.
+
+ABOUT THE ACADEMY
+Riverlight Learning Academy is a fictional training center in Dhaka, Bangladesh.
+It teaches practical technology skills through small classes and project work.
+Its campus address is 18 Learning Lane, Dhanmondi, Dhaka.
+The academy was founded in 2022 by Nila Rahman.
+
+OFFICE AND CONTACT
+The administration office is open Sunday through Thursday, 9:00 AM to 5:00 PM.
+The office is closed on Friday and Saturday.
+All times in academy documents are local time in Dhaka, Bangladesh.
+General inquiries go to hello@riverlight.example.
+Course enrollment inquiries go to admissions@riverlight.example.
+The academy website is https://riverlight.example.
+The .example addresses are fictional and are not working contact channels.
+
+LEARNING APPROACH
+Each course includes instructor demonstrations, individual practice, and a final
+project. Students bring their own laptops. Classroom Wi-Fi is available.
+The academy has a computer lab with 12 workstations, but lab seats must be booked
+through the administration office at least one working day in advance.
+The lab is available Sunday through Thursday from 10:00 AM to 4:00 PM.
+These are computer lab hours; library hours are listed on the library notice.
+
+COURSE DOCUMENTS
+The structured course catalog lists course IDs, fees, durations, prerequisites,
+and instructors. The course guide explains the enrollment process and class
+schedules. The student handbook defines attendance and refund rules.
+The library notice is provided as an image so that learners can practice OCR.
+
+STUDENT SUPPORT
+Students can request one 20-minute academic support session each week.
+Requests go to support@riverlight.example at least 24 hours before the session.
+The academy provides digital course materials after enrollment is confirmed.
+Recorded sessions, when available, remain accessible for 60 days after a course ends.
+The academy does not provide accommodation or transport.
