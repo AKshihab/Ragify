@@ -1,30 +1,30 @@
 [
     {
         "sources":  [
-                        "txt/academy_overview.txt"
+                        "txt/shihab_profile.txt"
                     ],
-        "expected_answer":  "Nila Rahman founded it in 2022.",
+        "expected_answer":  "Shihab; GitHub username AKshihab.",
         "answerable":  true,
         "id":  "q01",
-        "question":  "Who founded the academy, and in which year?"
+        "question":  "What is Shihab's name and GitHub username?"
     },
     {
         "sources":  [
-                        "txt/academy_overview.txt"
+                        "txt/shihab_profile.txt"
                     ],
-        "expected_answer":  "Sunday through Thursday, 9:00 AM to 5:00 PM, Dhaka local time.",
+        "expected_answer":  "CrewAI, LangChain, LangGraph, and n8n.",
         "answerable":  true,
         "id":  "q02",
-        "question":  "When is the administration office open?"
+        "question":  "Which Agentic AI and automation tools does Shihab list?"
     },
     {
         "sources":  [
-                        "txt/academy_overview.txt"
+                        "txt/shihab_profile.txt"
                     ],
-        "expected_answer":  "12 workstations.",
+        "expected_answer":  "Python, according to his supplied profile snapshot.",
         "answerable":  true,
         "id":  "q03",
-        "question":  "How many computer lab workstations are available?"
+        "question":  "What is Shihab's most used programming language?"
     },
     {
         "sources":  [

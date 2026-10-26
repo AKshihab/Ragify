@@ -1,0 +1,60 @@
+SHIHAB'S PROFILE
+GitHub username: AKshihab
+Source: Profile information supplied by Shihab from AKshihab/README.md.
+
+ABOUT ME
+Hey! Nice to see you. I'm Shihab.
+I am an AI Learner, Machine Learning Enthusiast, and Future Data Scientist.
+
+TECHNICAL EXPERIENCE AND INTERESTS
+My technical experience and interests include Deep Learning, Machine Learning,
+Computer Vision, Natural Language Processing (NLP), MLOps, Generative AI,
+Agentic AI, and AI Automation.
+
+LANGUAGES AND TOOLS
+My listed languages and tools are Python, PyTorch, TensorFlow, OpenCV,
+Scikit-learn, Docker, Git, GitHub, Linux, MongoDB, MySQL, Flask, FastAPI,
+VS Code, and Postman.
+
+AI AND MACHINE LEARNING TOOLS
+My AI and ML tools include Python, PyTorch, TensorFlow, OpenCV, Scikit-learn,
+NumPy, Pandas, and Jupyter.
+
+AGENTIC AI AND AUTOMATION TOOLS
+My Agentic AI and automation tools include CrewAI, LangChain, LangGraph,
+and n8n.
+
+DEVELOPMENT TOOLS
+My development tools include VS Code, Git, GitHub, Docker, Linux, MySQL,
+MongoDB, and Flask.
+
+GITHUB REPOSITORIES
+The repositories listed in my supplied GitHub profile include:
+
+Repository: assignment
+Listed language: C++.
+
+Repository: demo
+Description: This is my first Git repository.
+Listed language: HTML.
+
+Repository: localrepo
+No description or language was supplied.
+
+Repository: airplanticked
+No description or language was supplied.
+
+Repository: NexusVIewNew
+Listed language: Python.
+
+Repository: End-to-end-ML-project-bulding-
+Description: An automatic VISA detecting project.
+Listed format: Jupyter Notebook.
+
+GITHUB ACTIVITY SNAPSHOT
+My supplied profile identifies Python as my most used language.
+It reports 179 contributions in the last year at the time of that snapshot.
+These statistics are from the supplied profile, not a live GitHub lookup.
+
+Shihab education background
+he faild in the every admission test exam 

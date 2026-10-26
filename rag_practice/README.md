@@ -8,7 +8,7 @@ Both contain exercises only. No RAG pipeline has been implemented.
 ```text
 rag_practice/
   data/                          Index only this folder
-    txt/academy_overview.txt
+    txt/shihab_profile.txt        Your supplied profile and GitHub information
     pdf/course_guide.pdf          Selectable text, not a scan
     word/student_handbook.docx    A real Word document
     json/course_catalog.json     Object with a courses array
@@ -20,8 +20,10 @@ rag_practice/
   .env.example                   Optional environment variable placeholders
 ```
 
-All source material describes the fictional Riverlight Learning Academy.
-Names, prices, schedules, and policies are invented practice data.
+The TXT document contains Shihab's supplied profile and GitHub information.
+The PDF, Word, JSON, and image documents describe the fictional Riverlight
+Learning Academy. Its names, prices, schedules, and policies are invented
+practice data. The academy documents do not describe Shihab's affiliations.
 
 ## Practice order
 
